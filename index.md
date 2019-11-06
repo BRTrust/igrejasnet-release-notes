@@ -1,7 +1,7 @@
 # 0.2.20
 
 ## Novas funcionalidades
-- Caixas quinzenais (por configuração interna)
+- Possibilidade de Caixas quinzenais (por configuração interna)
 
 
 ## Correções
@@ -10,5 +10,5 @@
 ## Melhorias
  - Algorítmo de pesqiusa das combos de Membros, Pessoas físicas, pessoas jurídicas e igrejas. Pesquisa utilizando %
 
-## Breaking Changes
+## Incompatibilidades (Breaking Changes)
 - Não há
