@@ -1,23 +1,14 @@
-# Upgrade Steps
-- [ACTION REQUIRED]
--
+# 0.2.20
 
-# Breaking Changes
-- 
-- 
+## Novas funcionalidades
+- Caixas quinzenais (por configuração interna)
 
-# New Features
--
--
 
-# Bug Fixes
--
--
+## Correções
+- Tela de edição de usuários, salvar perfis do usuário
 
-# Improvements
--
--
+## Melhorias
+ - Algorítmo de pesqiusa das combos de Membros, Pessoas físicas, pessoas jurídicas e igrejas. Pesquisa utilizando %
 
-# Other Changes
--
--
+## Breaking Changes
+- Não há
