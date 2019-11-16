@@ -1,4 +1,4 @@
-# 0.3.1
+# 0.3.1 - 16-Nov-2019
 
 ## Novas funcionalidades
 - Recebimento de caixa de igreja afilhada
