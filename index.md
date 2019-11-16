@@ -1,3 +1,19 @@
+# 0.3.1
+
+## Novas funcionalidades
+- Recebimento de caixa de igreja afilhada
+- Novo módulo de eventos
+
+
+## Correções
+- Permissões de menus
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
 # 0.2.20
 
 ## Novas funcionalidades
