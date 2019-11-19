@@ -1,3 +1,20 @@
+# 0.3.2 - 19-Nov-2019
+
+## Novas funcionalidades
+- Geolocalização no cadastro de membros
+- Cancelamento de inscrição de evento
+
+
+## Correções
+- Script de pre-deploy
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 0.3.1 - 16-Nov-2019
 
 ## Novas funcionalidades
