@@ -1,3 +1,20 @@
+# 0.3.3 - 26-Nov-2019
+
+## Novas funcionalidades
+- Geolocalização no cadastro de igrejas
+- Novas situações para inscriões em eventos
+- Nova tela de consulta de igrejas
+
+## Correções
+- Não há
+
+## Melhorias
+- Melhorias na aparência dos relatórios
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 0.3.2 - 19-Nov-2019
 
 ## Novas funcionalidades
