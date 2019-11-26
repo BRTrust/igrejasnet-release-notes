@@ -2,7 +2,7 @@
 
 ## Novas funcionalidades
 - Geolocalização no cadastro de igrejas
-- Novas situações para inscriões em eventos
+- Novas situações para inscrições em eventos
 - Nova tela de consulta de igrejas
 
 ## Correções
