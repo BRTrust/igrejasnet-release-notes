@@ -1,3 +1,22 @@
+# 0.3.4 - 29-Nov-2019
+
+## Novas funcionalidades
+- Bloqueio de cadastro de membros por nível hierárquico de igrejas
+- Cancelamento de débitos por ocorrência
+- Desfazimento de cancelamento de débitos por ocorrência
+- Novo relatório de agrupador por título eclesiástico
+
+## Correções
+- Não há
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
+
 # 0.3.3 - 26-Nov-2019
 
 ## Novas funcionalidades
