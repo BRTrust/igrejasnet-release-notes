@@ -1,3 +1,27 @@
+# 0.4.1 - 03-Dez-2019
+
+## Novas funcionalidades
+- Cancelamento de débitos por ocorrência com desfazimento
+- Ações de Isenção, Cancelamento, Criação e Reativação de débitos por ocorrência
+- Criando tipo de solicitações de credenciais e configurações de geração de ocorrencia
+- Criar ocorrencia ao criar soliciação de credencial e/ou ao confirmar impressão
+- Criando nova solicitação de Credencial pela operação automática
+- Nova configuração de conta de repasse: Baixar repasses quando receita de membro da devedora na credora
+
+## Correções
+- Corrigido Transferencia para nível hierárquico não permitido
+
+## Melhorias
+- Ajustando pagamento de débitos para vincular o lançamento à conta do tipo de débito
+- Relatório estatístico por agrupador de título eclesiástico
+- Melhorando mensagem de fechamento de caixa
+- Cache para o conteúdo dos itens do Dashboard (padrão 30min)
+- Exibir todas as igrejas na combo de destino da transfefencia
+
+## Incompatibilidades (Breaking Changes)
+- Configuração de geração de ocorrencia por modelo de credencial foi descontinuada
+- Tipos de débitos sem conta financeira não existem mais 
+
 # 0.3.4 - 29-Nov-2019
 
 ## Novas funcionalidades
