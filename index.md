@@ -1,3 +1,17 @@
+# 0.4.2 - 04-Dez-2019
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- Corrigindo aritimética do javascript
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
 # 0.4.1 - 03-Dez-2019
 
 ## Novas funcionalidades
