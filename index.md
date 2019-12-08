@@ -1,3 +1,25 @@
+# 0.4.3 - 08-Dez-2019
+
+## Novas funcionalidades
+- Criar ocorrência a partir da criação/aprovação/cancelamento de transferencias
+- Duas novas configurações internas: "TransferenciasExibirMembrosForaArvoreIgrejas" e "TransferenciasExibirIgrejasForaArvore"
+- Criar ou reativar débitos desde a criação da transferência até sua aprovação
+- Bloquear o uso de plano de contas na tela de lançamentos manuais
+- Exigir nível mínimo de título eclesiástico para ocorrêncais
+- Configuração de ocorrencias como pré-requisito para ocorrencias (somente no úlitmo histórico ou em todo o histórico)
+- Configuração de ocorrencias como impedimentos para ocorrencias (somente no úlitmo histórico ou em todo o histórico)
+
+## Correções
+- Não há
+
+## Melhorias
+- Cache para parâmetros iniciais do sistema
+- Cache para fotos da combo de membros e para foto do usuário logado
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 0.4.2 - 04-Dez-2019
 
 ## Novas funcionalidades
