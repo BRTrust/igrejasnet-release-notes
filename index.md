@@ -1,3 +1,22 @@
+# 0.4.8 - 28-Dez-2019
+
+## Novas funcionalidades
+ - Variáveis de operações
+ - Nova aba de "Operações" no cadastro do membro
+ - Inscrição avulsa de pesssoas físicas em eventos
+ - Criação rápida de pessoas físicas pela tela de inscrição de eventos 
+ - Criação rápida de pessoas físicas/jurídicas pela tela de lançamento de receita/despesa
+ 
+## Correções
+- Corrigindo configurações de transferências
+
+## Melhorias
+- Não há
+
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
 # 0.4.7 - 11-Dez-2019
 
 ## Novas funcionalidades
