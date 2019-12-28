@@ -1,3 +1,20 @@
+# 0.4.6 - 08-Dez-2019
+
+## Novas funcionalidades
+ - Motivo de isenção de débitos
+ 
+## Correções
+- Edição de usuários, seleção de perfis.
+
+## Melhorias
+- Relatório de débitos
+
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+*As versões 0.4.4 e 0.4.5 falharam
+
 # 0.4.3 - 08-Dez-2019
 
 ## Novas funcionalidades
