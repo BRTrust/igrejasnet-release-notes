@@ -1,4 +1,20 @@
-# 0.4.6 - 08-Dez-2019
+# 0.4.7 - 11-Dez-2019
+
+## Novas funcionalidades
+ - Não há
+ 
+## Correções
+- Corrigindo bug de cache nos dashboards
+
+## Melhorias
+- Não há
+
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
+# 0.4.6 - 11-Dez-2019
 
 ## Novas funcionalidades
  - Motivo de isenção de débitos
