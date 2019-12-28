@@ -1,3 +1,18 @@
+# 0.4.9 - 28-Dez-2019
+
+## Novas funcionalidades
+ - Opção para "Permitir membros de fora da igreja realizadora" em inscrição de eventos 
+ 
+## Correções
+- Corrigindo scroll-bar congelada
+
+## Melhorias
+- Não há
+
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
 # 0.4.8 - 28-Dez-2019
 
 ## Novas funcionalidades
