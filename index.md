@@ -1,3 +1,20 @@
+# 0.4.10 - 28-Dez-2019
+
+## Novas funcionalidades
+ - Configuração para "label" no singular e plural para "Igrejas"
+ - Configuração para "label" no singular e plural para "Membros"
+ 
+## Correções
+- Corrigindo arrendodamento ao fechar caixa
+
+## Melhorias
+- Não há
+
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 0.4.9 - 28-Dez-2019
 
 ## Novas funcionalidades
