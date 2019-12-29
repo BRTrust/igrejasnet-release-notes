@@ -5,7 +5,7 @@
  - Configuração para "label" no singular e plural para "Membros"
  
 ## Correções
-- Corrigindo arrendodamento ao fechar caixa
+- Corrigindo arredondamento ao fechar caixa
 
 ## Melhorias
 - Não há
