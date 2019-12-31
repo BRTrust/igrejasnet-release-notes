@@ -1,3 +1,67 @@
+# 0.5.4 - 31-Dez-2019
+
+## Novas funcionalidades
+- Não há
+ 
+## Correções
+- Não há
+
+## Melhorias
+- Corrigindo sistema de build
+
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
+# 0.5.3 - 31-Dez-2019
+
+## Novas funcionalidades
+- Não há
+ 
+## Correções
+- Não há
+
+## Melhorias
+- Corrigindo sistema de build
+
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
+# 0.5.2 - 31-Dez-2019
+
+## Novas funcionalidades
+- Busca rápida de membros/ministgros 
+ 
+## Correções
+- Não há
+
+## Melhorias
+- Atualizando componentes e Angular para versão 8
+
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
+# 0.5.1 - 29-Dez-2019
+
+## Novas funcionalidades
+ - Não há
+ 
+## Correções
+-  Não há
+
+## Melhorias
+- novo mecanismo de build automatizado (yaml)
+
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 0.4.10 - 28-Dez-2019
 
 ## Novas funcionalidades
