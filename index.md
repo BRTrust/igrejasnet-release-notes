@@ -1,3 +1,35 @@
+# 0.5.6 - 03-Jan-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- Não há
+
+## Melhorias
+- Melhorando busca rápida de membros
+
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+# 0.5.5 - 03-Jan-2020
+
+## Novas funcionalidades
+- Novos relatórios de débitos (anuidades)
+- Novos relatórios de eventos
+ 
+## Correções
+- Corrigindo navegação
+- Corrigindo filtro da compo de eventos 
+
+## Melhorias
+- Melhorando visualização da foto do membro
+
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
 # 0.5.4 - 31-Dez-2019
 
 ## Novas funcionalidades
