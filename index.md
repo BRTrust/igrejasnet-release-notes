@@ -1,3 +1,20 @@
+# 0.5.7 - 07-Jan-2020
+
+## Novas funcionalidades
+- Opção de recibo ao pagar um débito
+- Novo Recibo de receita
+- Nova função de banco de dados para exibir o nome de toda a árvore de igrejas
+
+## Correções
+- Bug de Conta não carrega as vezes na modal de pagamento
+
+## Melhorias
+- Não há
+
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
 # 0.5.6 - 03-Jan-2020
 
 ## Novas funcionalidades
