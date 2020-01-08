@@ -1,3 +1,20 @@
+# 0.5.8 - 08-Jan-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- Não há
+
+## Melhorias
+- Melhorando visualização pelo Celular
+- Melhorando comportando de combos da tela de receita/despesa
+- Melhorando identação do menu
+
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
 # 0.5.7 - 07-Jan-2020
 
 ## Novas funcionalidades
