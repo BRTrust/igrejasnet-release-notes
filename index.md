@@ -1,3 +1,18 @@
+# 0.5.10 - 10-Jan-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- Corrigindo erro em esqueci minha senha
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 0.5.9 - 10-Jan-2020
 
 ## Novas funcionalidades
@@ -9,8 +24,6 @@
 ## Melhorias
 - Não mostrar débitos cancelados, nova opção de filtro "Mostrar cancelados"
 - Ao exibir a igreja do membro/ministro, exibe o nome de toda a árvore hierárquica
-
-
 
 ## Incompatibilidades (Breaking Changes)
 - Não há
