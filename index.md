@@ -1,3 +1,18 @@
+# 0.5.11 - 14-Jan-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- Corrigindo estorno de débitos
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 0.5.10 - 10-Jan-2020
 
 ## Novas funcionalidades
