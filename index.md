@@ -1,3 +1,20 @@
+# 0.6.1 - 19-Jan-2020
+
+## Novas funcionalidades
+- Recibo manual de anuidade
+- Tela de visualização individual da anuidade com histórico
+
+
+## Correções
+- Correção da ordem da combo de igrejas
+
+## Melhorias
+- Melhorando visualização mobile para anuidades
+
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
 # 0.5.12 - 18-Jan-2020
 
 ## Novas funcionalidades
