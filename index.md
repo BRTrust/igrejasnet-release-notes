@@ -1,3 +1,21 @@
+# 0.5.12 - 18-Jan-2020
+
+## Novas funcionalidades
+- Nova tela de débitos, no menu, fora das abas do ministro
+- Configuração para aba de redirecionamento na busca rápida de membros/ministros
+- Novo relatório de lista de membros com endereços
+
+## Correções
+- Correção de Bug que aculmulava os débitos selecionados ao trocar o ministro 
+
+## Melhorias
+- Mudando ordem do resultado da combo de igrejas/convenções
+- Criando serviço de Processamento de Specification (interno)
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 0.5.11 - 14-Jan-2020
 
 ## Novas funcionalidades
