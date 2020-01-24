@@ -1,3 +1,33 @@
+# 0.6.3 - 24-Jan-2020
+
+## Novas funcionalidades
+- Pagar débitos em lote (mais de uma pessoa)
+
+## Correções
+- Corrigindo atribuição de perfis a usuários, e a perfis
+
+## Melhorias
+- Melhoria na seleção de perfis e de usuários
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+# 0.6.2 - 22-Jan-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- Não há 
+
+## Melhorias
+- Mostrar variavel com valor somente leitura na execução de operações
+- Operação de débito, cria apenas o pagamento se o débito já existir
+- Combo de igrejas agora pesquisa apenas com "Começa com"
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
 # 0.6.1 - 19-Jan-2020
 
 ## Novas funcionalidades
