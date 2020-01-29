@@ -1,3 +1,36 @@
+# 0.6.5 - 29-Jan-2020
+
+## Novas funcionalidades
+- Novo relatório de Lista geral de anuidades por campo/convenção
+- Criação rápida de bairros no cadastro de endereços
+
+## Correções
+- Corrigindo impressão de credencial no Microsoft Edge
+- Corrigindo igreja padrão ao criar novo membro/ministro
+
+## Melhorias
+- Filtro de igreja em credenciais, agora filtra membros/ministros dentro da árvore da igreja
+- Melhoria na seleção de credenciais
+- Removendo ano atual como filtro padrão dos débitos/anuidades
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+# 0.6.4 - 25-Jan-2020
+
+## Novas funcionalidades
+- Novo relatório de Ficha Cadastral
+
+## Correções
+- Não há
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 0.6.3 - 24-Jan-2020
 
 ## Novas funcionalidades
