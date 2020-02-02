@@ -1,3 +1,18 @@
+# 0.6.6 - 30-Jan-2020
+
+## Novas funcionalidades
+- Salvando histórico de acessos ao sistema (Registro de logins)
+- Opção de gatilho de ocorrência para cancelar débitos/anuidades anteriores ao ano corrente
+
+## Correções
+- Não há
+
+## Melhorias
+ - Melhoando tela de solicitação de credencial
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
 # 0.6.5 - 29-Jan-2020
 
 ## Novas funcionalidades
