@@ -1,3 +1,21 @@
+# 0.6.7 - 02-Fev-2020
+
+## Novas funcionalidades
+- Configuração para label de "Débitos" (configurado como Anuidades)
+- Criando configuração para o CAIXA da tesouraria ficar sempre na igreja do cadastro do usuário, e não ser alterada ao alterar o contexto da sessão atual.
+
+## Correções
+- Corrigindo valor padrão nos parâmetros dos relatórios
+- Filtrando a tela de eventos para exibir apenas eventos da arvore da igreja do usuário logado
+
+## Melhorias
+ - Movendo menu de "Débitos" para dentro do módulo tesouraria
+ - Ordenando lista de operações (novo campo Ordem)
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 0.6.6 - 30-Jan-2020
 
 ## Novas funcionalidades
