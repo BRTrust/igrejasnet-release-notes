@@ -1,3 +1,21 @@
+# 0.6.8 - 06-Fev-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- commit 8dead293: #185 - Exibindo erro quando acontece na combo
+- commit eb7e107c: #188 Corrigindo impressão de recibos no IE
+
+## Melhorias
+ - commit d832e237: #183 Novo campo de Situação do minisro e Título do ministro na tela de anuidades
+ - commit b7d44d91: #187 Ao criar ocorrência, já trazer pre-selecionado a cidade/país da igreja do ministro/membro
+ - commit 0016a8db: #189 Filtrando para exibir apenas as igrejas da árvore na modal de pagamento de anuidade
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 0.6.7 - 02-Fev-2020
 
 ## Novas funcionalidades
