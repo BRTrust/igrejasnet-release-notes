@@ -1,3 +1,19 @@
+# 0.6.9 - 07-Fev-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- Não há
+
+## Melhorias
+ - commit 27725ea1: Aumentando o Take da lista de débitos/anuidades de 100 para 1000
+ - commit 4f450f38: Aumentando o Take da combo de igrejas/convenções de 20 pra 300
+ 
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 0.6.8 - 06-Fev-2020
 
 ## Novas funcionalidades
