@@ -1,3 +1,23 @@
+# 0.6.10 - 11-Fev-2020
+
+## Novas funcionalidades
+- commit dabfba5e: #186 - Nova ppção de estilo de fonte (negrito, itálico) ao imprimir credencial
+- commit 2c8e98e6: #54 - Novo Relatório de resumo de repasse
+
+## Correções
+- commit 3d587dcf: #191 - Corrigindo combo de ocorrências (Case insensitive)
+- commit 3985edd7: #190 - Corrigindo Filtro transferências pela igreja do usuário, ordenar transferências
+- commit 9fd8da1c: Corrigindo reltorios com segunda página em branco
+
+## Melhorias
+ - commit ce263df2: #182 - Manter login na navegação entre abas do browser
+ - commit 5cf477fe: #184 - Ordenando a impressão de credenciais conforme ordem do grid
+ - commit 832ae3df: #193 - Na visualização da operação/lançamento já criado. Mostrar o nome do usuário que criou
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 0.6.9 - 07-Fev-2020
 
 ## Novas funcionalidades
