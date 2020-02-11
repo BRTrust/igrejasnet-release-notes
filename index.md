@@ -1,7 +1,7 @@
 # 0.6.10 - 11-Fev-2020
 
 ## Novas funcionalidades
-- commit dabfba5e: #186 - Nova ppção de estilo de fonte (negrito, itálico) ao imprimir credencial
+- commit dabfba5e: #186 - Nova opção de estilo de fonte (negrito, itálico) ao imprimir credencial
 - commit 2c8e98e6: #54 - Novo Relatório de resumo de repasse
 
 ## Correções
