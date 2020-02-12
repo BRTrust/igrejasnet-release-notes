@@ -1,3 +1,21 @@
+# 0.6.11 - 12-Fev-2020
+
+## Novas funcionalidades
+ - commit be3f761b: Novo Relatório de campos com presidentes (CONAMAD)
+ - commit f46be158: Novo opção de quantidade máxima de registros para anuidades e credenciais
+
+## Correções
+ - commit 9084fba4: Corrigindo aprovação/cancelado de transferências
+ 
+## Melhorias
+ - commit 9e9944b7: Cadastro rápido de novo bairro pela tela de edição/criação de igrejas
+ - commit 53b52dc7: Melhorando para não mostrar credenciais canceladas por padrão
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
+
 # 0.6.10 - 11-Fev-2020
 
 ## Novas funcionalidades
