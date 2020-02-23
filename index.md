@@ -1,3 +1,30 @@
+# 0.7.1 - 23-Fev-2020
+
+## Novas funcionalidades
+  - commit 6e36a962: #202 - Opção de Tamanho máximo para campo da credencial com abreviação
+   - commit fb060fb4: #207 - No cadastro de novo membro, quando houver ocorrencia, informar país, cidade e observação
+   - commit 515a1396: #214 - Opção para desabilitar a geração de excel de alguns relatórios, ou só em pdf
+   - commit 3e904ea5: #100 - Opção de alterar nível da igreja
+   - commit d3a9f881: #209 #141 - Resumo de funções no cadastro de igrejas
+   - commit 5071a587: #195 - Opção para gerar credencial/diploma apenas para ativos
+   
+## Correções
+  - commit 22b7b4cc: Corrigindo orientação dos relatórios
+  - commit 9cfc5ae5: #194 - Corrigindo filtro e ordenação da combo de ocorrências
+  - commit a739b144: #203 - Erro ao cadastrar nova cidade
+  - commit 0b92dc8c: #204 - Erro ao criar usuário
+## Melhorias
+  - commit 4c915e7c: Migrando para .net core 3.1
+  - commit 93d600c2: Refatorando strategies das combos
+  - commit 5b0de353: Refatorando para novo acesso ao usuário logado
+  - commit fc4b56b3: Possibilidade de relatórios com multiplos resultados (query)
+  - commit fca56c22: Ajustes para carregar automaticamente a cidade e pais da igreja do usuário
+  
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
+
 # 0.6.11 - 12-Fev-2020
 
 ## Novas funcionalidades
