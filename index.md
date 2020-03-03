@@ -1,3 +1,70 @@
+# 0.7.7 - 01-Mar-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- Não há
+
+## Melhorias
+- Imagem personalizada no campo de credencial
+- Nova fonte para campos de credenciais "Old English Text MT"
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
+# 0.7.6 - 28-Fev-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- Corrigindo pre-deploy
+- Corrigindo consultas SQL sem label de campo
+
+## Melhorias
+- Melhorando mapa de dashboard
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+# 0.7.5 - 24-Fev-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- Ordem de visualização dos itens de dashboard
+- Corrigindo abreviação de nome na credencial
+- Corrigindo consulta de vigência de repasse
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
+# 0.7.4 - 23-Fev-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- Não há
+
+## Melhorias
+ - Melhorando o mecanismo de dashboard
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+Obs: As verões 0.7.2 e 0.7.3 falharam
+
+
+
+
 # 0.7.1 - 23-Fev-2020
 
 ## Novas funcionalidades
