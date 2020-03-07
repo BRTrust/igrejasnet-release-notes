@@ -1,3 +1,25 @@
+# 0.7.8 - 07-Mar-2020
+
+## Novas funcionalidades
+- commit f1c7bb97: #215 - Opção de filtrar débitos por lista de matrículas
+- commit 7906382c: #220 Novos filtros na tela de lançamentos
+- commit 61029013: Criando componente de combo multipla
+- commit 093669bf: #219 - Novo tipo de paramtetro pra relatorios (MultipleCombo)
+- commit 429adff5: #217 - Novos filtros para relação anual de dizimistas
+
+## Correções
+- commit f46d0d57: Corrigindo erro ao acessar abas de documentos
+- commit 9081ffb5: Corrigindo consulta de Transferencias
+- commit 61644184: #209 - Revisando naturalidade
+- commit dc8b0234: Corrigindo atulização indevida da data de criação da pessoa
+- commit 05b7d7a0: #218 - Corrigindo relatção de dizimistas anuais
+
+## Melhorias
+- 
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
 # 0.7.7 - 01-Mar-2020
 
 ## Novas funcionalidades
