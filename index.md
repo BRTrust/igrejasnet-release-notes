@@ -1,3 +1,29 @@
+# 0.7.9 - 18-Mar-2020
+
+## Novas funcionalidades
+- commit e7fdf646: #221 - Novo parametro para agrupar dinamicamente a lista geral simplificada
+- commit e23c1de8: #146 - Configurações permissões de operações de dentro da edição do perfil
+- commit c3030f8b: #146 - Nova aba de ocorrências na edição do perfil
+- commit 8956c9f3: #227 - Novo filtro de multiplas contas nos relatórios da tesouraria
+- commit c493551b: #146 - Aba de grupos de relatórios do perfil
+- commit c7b1d427: #146 - Nova aba de títulos eclesiásticos no cadastro do perfil
+
+
+## Correções
+- commit 40dc1027: Ajustando Css do Grid
+- commit 868c8cde: Corrigindo versão do Templater
+
+## Melhorias
+- commit f71670a8: Novo filtro para função
+- commit ab8fe9c3: #222 - Combo de Igrejas - Mostrar o caminho completo da árvore
+- commit a87f1c3c: #146 - Carregando árvore de permissões fechada por padrão
+- commit 8d4222d3: #146 - Separando a aba de permissões da apa de dados principais do perfil
+- commit 7fa25337: Melhorando tela de edição de perfil
+- commit 4c6f9ee3: #231 - Credenciais - Filtrar por Tipo de solicitacao e por modelo
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
 # 0.7.8 - 07-Mar-2020
 
 ## Novas funcionalidades
