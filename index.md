@@ -1,3 +1,114 @@
+# 0.8.7 - 04-Abr-2020
+
+## Novas funcionalidades
+- commit 3cc3256d: #244 Ajustando credenciais em Operações
+
+## Correções
+- Não há
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+# 0.8.6 - 03-Abr-2020
+
+## Novas funcionalidades
+- commit dd48e47c: #244 Verificar ao solicitar nova credencial, se existe credencial gerada com data de validade ativa, se sim, gerar um Alerta
+- commit c74f7c27: #244 Alterar o Fluxo para liberar a impressão só após "confirmar" a solicitação
+
+
+## Correções
+- Não há
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+# 0.8.5 - 01-Abr-2020
+
+## Novas funcionalidades
+- commit 4fede60c: #205 Criando configuação para Natualidade como campo obrigatório
+
+
+## Correções
+- Não há
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
+# 0.8.4 - 24-Mar-2020
+
+## Novas funcionalidades
+- Não há
+
+
+## Correções
+- commit 7485a5d1: unable to load shared library 'libgdiplus'
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+# 0.8.3 - 23-Mar-2020
+
+## Novas funcionalidades
+- Não há
+
+
+## Correções
+- commit 7db0ae64: Corrigindo formatação de Reais no linux docker
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
+
+# 0.8.2 - 22-Mar-2020
+
+## Novas funcionalidades
+- Não há
+
+
+## Correções
+- commit 8d70d5e7: Corrigindo filtro de receitas/despesas
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
+
+# 0.8.1 - 22-Mar-2020
+
+## Novas funcionalidades
+- commit ccfbe84d: #197 Opção para alterar matrícula de ministro/membro
+
+
+## Correções
+- Não há
+
+## Melhorias
+- Mudança para container docker
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 0.7.9 - 18-Mar-2020
 
 ## Novas funcionalidades
