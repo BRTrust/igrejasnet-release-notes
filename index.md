@@ -1,3 +1,61 @@
+# 0.9.4 - 16-Abr-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- commit 61a002c0: Corrigindo font-awsome
+- commit 59231ecc: Corrigindo erro da combo
+
+## Melhorias
+- commit 471701fc: Editor de código para html e SQL
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+# 0.9.3 - 11-Abr-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- Não há
+
+## Melhorias
+- Atualizando imagem docker
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+# 0.9.2 - 11-Abr-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- Não há
+
+## Melhorias
+- Atualizando imagem docker
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+# 0.9.1 - 10-Abr-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- Não há
+
+## Melhorias
+- Atualizando o angular para versão 9.1
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 0.8.7 - 04-Abr-2020
 
 ## Novas funcionalidades
