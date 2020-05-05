@@ -1,3 +1,70 @@
+# 1.0.8 - 05-Mai-2020
+
+## Novas funcionalidades
+- #251 Não permitir Cadastrar Nenhuma Ocorrência com o Campo Observação em Branco. (caso configurado)
+- #250 Preenchendo campo observação com os campos dinâmicos do documento
+
+## Correções
+- #249 Ajustando filtros de função
+
+## Melhorias
+- Removendo classe "text-small" para não ficar tão pequeno no PDF
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
+Versões 1.0.6, 1.0.7 foram apenas configurações do novo serviço de PDF (DinkToPDF)
+
+# 1.0.5 - 24-Abr-2020
+
+## Novas funcionalidades
+- Nova opção para gerar pdf (DinkToPDF) (configuração interna)
+- Removendo link do UserReport
+- Salvando ultimo filtro pesquisado em membros/ministros
+
+## Correções
+- Corrigindo criação de credencial pela operação
+
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+# 1.0.4 - 19-Abr-2020
+
+## Novas funcionalidades
+- Nova opção para gerar pdf (DinkToPDF) (configuração interna)
+- Removendo link do UserReport
+- Salvando ultimo filtro pesquisado em membros/ministros
+
+## Correções
+- Corrigindo criação de credencial pela operação
+
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Serviço operacional
+
+# 1.0.3 - 19-Abr-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+- Corrigindo combo de Cidade/Estado
+
+
+## Melhorias
+- Mudando o datacenter e voltando para windows (sem docker)
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
 # 0.9.4 - 16-Abr-2020
 
 ## Novas funcionalidades
