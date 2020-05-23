@@ -1,3 +1,34 @@
+# 1.0.10 - 15-Mai-2020
+
+## Novas funcionalidades
+- Não há
+
+## Correções
+ - #257 Erro ao fechar caixa
+
+## Melhorias
+ - Ajustando label do relatório
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
+# 1.0.9 - 07-Mai-2020
+
+## Novas funcionalidades
+- #252 Criando funções SQL para recuperar a semana
+
+
+## Correções
+- Não há
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 1.0.8 - 05-Mai-2020
 
 ## Novas funcionalidades
