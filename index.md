@@ -1,3 +1,19 @@
+# 1.0.11 - 23-Mai-2020
+
+## Novas funcionalidades
+- #236 Cabeçalho de igreja
+- #236 Galeria de imagens para igrejas
+
+## Correções
+ - Não há
+
+## Melhorias
+- Não há
+
+## Incompatibilidades (Breaking Changes)
+- Não há
+
+
 # 1.0.10 - 15-Mai-2020
 
 ## Novas funcionalidades
